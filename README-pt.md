@@ -48,7 +48,7 @@
 ### Captura de tela do código
 
 <div>
-   <img src="./assets/images/capa.png" width="1050px">
+   <img src="/capa.png" width="1050px">
 </div>
 
 # :eyes: Visualizacao de codigo
